@@ -1,7 +1,7 @@
 # AAR-EquToString
 Listing 57 AAR-EquToString/EquToString.java Page 93
 
-Cont. from [53.54.55.56.DJW-InnerAnimal](https://github.com/Java-PJATK/53.54.55.56.DJW-InnerAnimal)
+Cont. from [53.54.55.56.DJW-InherAnimal](https://github.com/Java-PJATK/53.54.55.56.DJW-InherAnimal)
 
 ## 10.1 Importance of equal and hashCode methods
 
